@@ -13,6 +13,7 @@ export default function FirstPost() {
       <h2>
         <Link href="/">Back to home</Link>
       </h2>
+      <small>Logo Image </small>
       <Image
         src="/images/nextImage.png" // Route of the image file
         height={200} // Desired size with correct aspect ratio
